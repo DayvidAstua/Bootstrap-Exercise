@@ -1,0 +1,23 @@
+html{
+  height: 100%;
+  width: 100%;
+  margin: 0;
+  padding: 0;
+  background-color: #fdd002;
+}
+.jumbotron{
+  width: 100%;
+  image-orientation: cover;
+}
+.titleimg{
+  width: 100%;
+  height: auto;
+}
+.jumbotron-padding{
+  margin: 0;
+}
+button{
+  width: 150px;
+  height: 50px;
+  background-color: #f8390b;
+}
